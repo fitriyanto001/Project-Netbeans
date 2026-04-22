@@ -1,3 +1,2 @@
-Ini adalah tugas Java pertama saya
-Nama : Fitriyanto
+Nama : Fitriyanto<br></br>
 Npm  : 2410010008
